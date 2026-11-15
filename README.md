@@ -35,7 +35,7 @@ The backlog has no Admin-only stories, so the Admin role is the `admin` value of
 
 ## Database
 
-- DBMS: PostgreSQL <version>
+- DBMS: PostgreSQL 18
 - Database name: smart_bike_rental
 - Scripts are in the `schema/` folder; run them in numeric order:
   1. `01_create_tables.sql` - 10 tables
